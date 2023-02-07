@@ -8,3 +8,5 @@ print(stack)
 
 stack.pop()
 print(stack)
+
+print(len(stack) == 0)
