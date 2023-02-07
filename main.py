@@ -10,3 +10,5 @@ stack.pop()
 print(stack)
 
 print(len(stack) == 0)
+
+print(stack[-1])
